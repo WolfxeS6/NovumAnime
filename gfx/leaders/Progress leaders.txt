@@ -265,5 +265,5 @@ ZZZ = Anarchists - Not changed
 Africa - fully changed - Allego
 Arabia - fully changed - Allego
 Asia - Not changed
-Europe - Partly changed - Wolfxe
-South America - Not changed
+Europe - Partly changed - Wolfxe (no more is used ingame however)
+South America - Partly changed - Wolfxe
