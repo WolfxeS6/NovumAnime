@@ -6,4 +6,4 @@ dependencies={
 	"Novum Vexillum"
 }
 name="Novum Anime"
-supported_version="1.10.4"
+supported_version="1.15.*"
